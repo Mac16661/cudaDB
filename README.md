@@ -1,2 +1,2 @@
-<h1>cudaDB</h1>
-<h3>Database to handle i/o operations in parallel using NVIDIA's GPU and CUDA library</h3>
+<h1>simpleDB</h1>
+<h3>Database to handle simple i/o operations written in C/C++ </h3>
