@@ -1,0 +1,1 @@
+/usr/bin/g++   -Wall -Wextra -Werror -g   CMakeFiles/simpleDB.dir/src/main.cpp.o  -o simpleDB 

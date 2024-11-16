@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mac/simpleDB/build",
+  "command": "/usr/bin/g++     -Wall -Wextra -Werror -g   -std=gnu++14 -o CMakeFiles/simpleDB.dir/src/main.cpp.o -c /home/mac/simpleDB/src/main.cpp",
+  "file": "/home/mac/simpleDB/src/main.cpp"
+}
+]
